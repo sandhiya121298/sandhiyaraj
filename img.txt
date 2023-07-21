@@ -1,0 +1,10 @@
+<img src="C:\Users\sandh\Desktop\image\Snapchat-2077798052.jpg"/>
+
+
+
+img{
+            float: right;
+            width: 150px;
+            height: 150px; 
+            
+        }
